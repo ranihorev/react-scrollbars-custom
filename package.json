@@ -33,8 +33,8 @@
     "dist"
   ],
   "peerDependencies": {
-    "prop-types": "^15.0.0",
-    "react": "^16.0.0"
+    "prop-types": "^15",
+    "react": "^16.8"
   },
   "dependencies": {
     "cnbuilder": "^1.1.7",
